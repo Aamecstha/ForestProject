@@ -224,3 +224,39 @@ nav ul li a:hover{
     height:100px;
     padding:0px 15px;
 }
+.feature-box{
+    width:95%;
+    height:auto;
+    /* border:1px solid black; */
+    box-shadow: -3px 7px 39px -5px black;
+    border-radius:10px;
+    display:flex;
+    flex-wrap:wrap;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
+.feature-box-sContainer{
+    width:200px;
+    height:120px;
+    background-color: blue;
+    text-align:center;
+    padding:30px;
+}
+.feature-box-mContainer{
+    width:350px;
+    height:120px;
+    background-color: cornflowerblue;
+    padding:10px;
+}
+.feature-box2{
+    width:92%;
+    height:auto;
+    /* border:1px solid black; */
+    box-shadow: -3px 7px 39px -5px black;
+    border-radius:10px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin-bottom:15px;
+    margin-left: 17px;;
+}
